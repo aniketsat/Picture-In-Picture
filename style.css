@@ -45,7 +45,7 @@ li {
 
 /* style for buttons  */
 
-.buttons {
+.container {
     display: flex;
 }
 
@@ -114,6 +114,15 @@ button:active {
 }
 .footer-link {
     margin: 0 2vw;
+}
+
+.repo-link {
+    margin: 10px 0;
+    font-size: 18px;
+}
+.repo-link a {
+    color: white;
+    text-decoration: none;
 }
 
 
