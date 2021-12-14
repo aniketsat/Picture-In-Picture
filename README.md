@@ -6,7 +6,7 @@ It uses the Picture-in-Picture API ans Screen Capture API.
 
 <br/>
 
-You can view the live project here
+You can view the live project [here](https://aniketsat.github.io/Picture-In-Picture/)
 
 ## Instructions
 This works best in Chrome on the desktop
